@@ -15,7 +15,7 @@ class TodoApp extends StatelessWidget {
       theme: ThemeData(
         brightness: Brightness.light,
         scaffoldBackgroundColor: const Color(0xFFF5F7FA),
-        textTheme: GoogleFonts.poppinsTextTheme(),
+        textTheme:GoogleFonts.poppinsTextTheme(),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
         useMaterial3: true,
       ),
